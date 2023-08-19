@@ -1,0 +1,43 @@
+body {
+    background: #ebf9fd;
+}
+
+#clock {
+    background-color: #dcf7ff;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+#datedisplay {
+    border: 2px dotted #495563;
+    padding: 10px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #6d8687;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+h1 {
+    text-align: center;
+    color: #53d7ff;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 100;
+    margin: 10px;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    color: #53d7ff;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 100;
+    margin: 10px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
